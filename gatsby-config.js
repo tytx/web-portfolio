@@ -1,10 +1,17 @@
-const dotenv = require("dotenv");
+const dotenv = require('dotenv')
 
-if (process.env.ENVIRONMENT !== "production") {
-  dotenv.config();
+if (process.env.ENVIRONMENT !== "PRODUCTION") {
+  dotenv.config({
+    path: `.env.${process.env.NODE_ENV}`,
+  });;
 }
 
-const { spaceId, accessToken } = process.env;
+
+// const { spaceId, accessToken }
+const spaceId=  process.env.CONTENTFUL_SPACE_ID
+const accessToken=  process.env.CONTENTFUL_ACCESS_TOKEN
+
+
 
 module.exports = {
   siteMetadata: {
@@ -25,7 +32,7 @@ module.exports = {
       resolve: "gatsby-source-contentful",
       options: {
         spaceId,
-        accessToken
+        accessToken,
       }
     },
     `gatsby-transformer-sharp`,
