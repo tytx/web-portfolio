@@ -579,7 +579,7 @@
         "id": "siteInformation",
         "type": "ContentType",
         "createdAt": "2021-07-11T12:44:32.960Z",
-        "updatedAt": "2021-07-11T12:44:34.047Z",
+        "updatedAt": "2021-08-01T14:34:12.297Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -587,8 +587,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 1,
-        "publishedAt": "2021-07-11T12:44:34.047Z",
+        "publishedVersion": 3,
+        "publishedAt": "2021-08-01T14:34:12.297Z",
         "firstPublishedAt": "2021-07-11T12:44:34.047Z",
         "createdBy": {
           "sys": {
@@ -604,8 +604,8 @@
             "id": "27MeerrWI4Um75PFmtem2G"
           }
         },
-        "publishedCounter": 1,
-        "version": 2,
+        "publishedCounter": 2,
+        "version": 4,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -691,7 +691,6 @@
                 "in": [
                   "About",
                   "Service",
-                  "Blogs",
                   "Work",
                   "Testimonials",
                   "Photos",
@@ -1078,7 +1077,7 @@
             "linkType": "Space"
           }
         },
-        "version": 2,
+        "version": 4,
         "createdAt": "2021-07-11T12:44:34.193Z",
         "createdBy": {
           "sys": {
@@ -1087,7 +1086,7 @@
             "linkType": "User"
           }
         },
-        "updatedAt": "2021-07-11T12:44:39.190Z",
+        "updatedAt": "2021-08-01T14:34:13.541Z",
         "updatedBy": {
           "sys": {
             "id": "27MeerrWI4Um75PFmtem2G",
