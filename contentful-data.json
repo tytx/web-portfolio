@@ -1528,7 +1528,7 @@
         "id": "6caZg1KgLxQN4VE2QOJbCk",
         "type": "Entry",
         "createdAt": "2021-07-11T12:46:04.584Z",
-        "updatedAt": "2021-07-11T12:46:09.711Z",
+        "updatedAt": "2021-08-15T14:01:15.870Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -1536,8 +1536,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 1,
-        "publishedAt": "2021-07-11T12:46:09.711Z",
+        "publishedVersion": 10,
+        "publishedAt": "2021-08-15T14:01:15.870Z",
         "firstPublishedAt": "2021-07-11T12:46:09.711Z",
         "createdBy": {
           "sys": {
@@ -1553,8 +1553,8 @@
             "id": "27MeerrWI4Um75PFmtem2G"
           }
         },
-        "publishedCounter": 1,
-        "version": 2,
+        "publishedCounter": 4,
+        "version": 11,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -1572,10 +1572,10 @@
       },
       "fields": {
         "name": {
-          "en-US": "Rohit Gupta"
+          "en-US": "Telson Ting"
         },
         "designation": {
-          "en-US": "Front-end Developer"
+          "en-US": "Front-End Developer"
         },
         "photo": {
           "en-US": {
@@ -1599,7 +1599,7 @@
           "en-US": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
         },
         "age": {
-          "en-US": "24"
+          "en-US": "26"
         },
         "bannerImage": {
           "en-US": {
@@ -1618,10 +1618,10 @@
           ]
         },
         "location": {
-          "en-US": "Gujarat, India"
+          "en-US": "Singapore"
         },
         "gmail": {
-          "en-US": "#"
+          "en-US": "1602077@sit.singaporetech.edu.sg"
         },
         "facebook": {
           "en-US": "#"
@@ -1960,7 +1960,7 @@
         "id": "1vaZauN3G1LbRsJutH3AU9",
         "type": "Entry",
         "createdAt": "2021-07-11T12:46:06.617Z",
-        "updatedAt": "2021-08-01T14:28:24.844Z",
+        "updatedAt": "2021-08-09T14:58:58.547Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -1968,8 +1968,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 3,
-        "publishedAt": "2021-08-01T14:28:24.844Z",
+        "publishedVersion": 10,
+        "publishedAt": "2021-08-09T14:58:58.547Z",
         "firstPublishedAt": "2021-07-11T12:46:18.166Z",
         "createdBy": {
           "sys": {
@@ -1985,8 +1985,8 @@
             "id": "27MeerrWI4Um75PFmtem2G"
           }
         },
-        "publishedCounter": 2,
-        "version": 4,
+        "publishedCounter": 3,
+        "version": 11,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -2004,7 +2004,7 @@
       },
       "fields": {
         "siteName": {
-          "en-US": "Rohit Gupta"
+          "en-US": "Telson Ting"
         },
         "siteUrl": {
           "en-US": "https://rg-portfolio.netlify.com"
@@ -2019,10 +2019,10 @@
           }
         },
         "twitterHandle": {
-          "en-US": "@rohitguptab"
+          "en-US": "@tytxsg"
         },
         "siteDescription": {
-          "en-US": "Personal Site"
+          "en-US": "Personal Portfolio Site"
         },
         "menus": {
           "en-US": [
@@ -2612,7 +2612,7 @@
         "id": "7yHuAa09NVOcZ25POk7cbM",
         "type": "Asset",
         "createdAt": "2021-07-11T12:44:41.193Z",
-        "updatedAt": "2021-07-11T12:46:02.878Z",
+        "updatedAt": "2021-08-09T15:26:17.792Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -2620,8 +2620,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 2,
-        "publishedAt": "2021-07-11T12:46:02.878Z",
+        "publishedVersion": 6,
+        "publishedAt": "2021-08-09T15:26:17.792Z",
         "firstPublishedAt": "2021-07-11T12:46:02.878Z",
         "createdBy": {
           "sys": {
@@ -2637,8 +2637,8 @@
             "id": "27MeerrWI4Um75PFmtem2G"
           }
         },
-        "publishedCounter": 1,
-        "version": 3,
+        "publishedCounter": 2,
+        "version": 7,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -2651,17 +2651,20 @@
         "title": {
           "en-US": "rohitgupta-white"
         },
+        "description": {
+          "en-US": "Created my logo at LogoMakr.com"
+        },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/d6wzkvzy6ipo/7yHuAa09NVOcZ25POk7cbM/4bfc8cd0c939e3642bab56d39d53ad99/rohitgupta-white.png",
+            "url": "//images.ctfassets.net/d6wzkvzy6ipo/7yHuAa09NVOcZ25POk7cbM/de39573e713728ca29944f54a70e468f/LogoMakr-2dskoc.png",
             "details": {
-              "size": 1741,
+              "size": 8595,
               "image": {
-                "width": 49,
-                "height": 45
+                "width": 300,
+                "height": 300
               }
             },
-            "fileName": "rohitgupta-white.png",
+            "fileName": "LogoMakr-2dskoc.png",
             "contentType": "image/png"
           }
         }
@@ -4012,6 +4015,77 @@
             },
             "fileName": "thomas-lefebvre-gp8BLyaTaA0-unsplash.jpg",
             "contentType": "image/jpeg"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "d6wzkvzy6ipo"
+          }
+        },
+        "id": "139p4a0s5I1kYNx18Z4Sex",
+        "type": "Asset",
+        "createdAt": "2021-08-01T14:42:32.520Z",
+        "updatedAt": "2021-08-01T14:43:25.972Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "publishedAt": "2021-08-01T14:43:25.972Z",
+        "firstPublishedAt": "2021-08-01T14:43:25.972Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "27MeerrWI4Um75PFmtem2G"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "27MeerrWI4Um75PFmtem2G"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 6,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "27MeerrWI4Um75PFmtem2G"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "test"
+        },
+        "file": {
+          "en-US": {
+            "url": "//images.ctfassets.net/d6wzkvzy6ipo/139p4a0s5I1kYNx18Z4Sex/45498c9cecc84b8465eec3754e2728c0/test.PNG",
+            "details": {
+              "size": 995,
+              "image": {
+                "width": 116,
+                "height": 14
+              }
+            },
+            "fileName": "test.PNG",
+            "contentType": "image/png"
           }
         }
       }
