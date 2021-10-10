@@ -7,7 +7,7 @@ import SEO from "../components/seo";
 import Banner from "../components/banner";
 import About from "../components/about";
 import Service from "../components/service";
-import Work from "../components/work";
+// import Work from "../components/work";
 import Blogs from "../components/blogs";
 import Testimonial from "../components/testimonial";
 import Contact from "../components/contact";
@@ -39,11 +39,11 @@ const IndexPage = ({ data }) => (
         return <Blogs key="Blogs" data={data.allContentfulBlogs}></Blogs>;
       })}
 
-    {data.contentfulSiteInformation.menus
+    {/* {data.contentfulSiteInformation.menus
       .filter(item => item === "Work")
       .map(t => {
         return <Work key="Work" data={data.allContentfulWorks}></Work>;
-      })}
+      })} */}
 
     {data.contentfulSiteInformation.menus
       .filter(item => item === "Testimonials")
