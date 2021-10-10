@@ -715,7 +715,7 @@
         "id": "blogs",
         "type": "ContentType",
         "createdAt": "2021-10-06T14:20:48.219Z",
-        "updatedAt": "2021-10-06T14:20:51.029Z",
+        "updatedAt": "2021-10-10T09:26:41.556Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -723,8 +723,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 1,
-        "publishedAt": "2021-10-06T14:20:51.029Z",
+        "publishedVersion": 7,
+        "publishedAt": "2021-10-10T09:26:41.556Z",
         "firstPublishedAt": "2021-10-06T14:20:51.029Z",
         "createdBy": {
           "sys": {
@@ -740,8 +740,8 @@
             "id": "27MeerrWI4Um75PFmtem2G"
           }
         },
-        "publishedCounter": 1,
-        "version": 2,
+        "publishedCounter": 4,
+        "version": 8,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -751,7 +751,7 @@
         }
       },
       "displayField": "title",
-      "name": "Blogs",
+      "name": "Recent Works",
       "description": "Blogs List",
       "fields": [
         {
@@ -1252,7 +1252,7 @@
             "linkType": "Space"
           }
         },
-        "version": 2,
+        "version": 8,
         "createdAt": "2021-10-06T14:20:51.122Z",
         "createdBy": {
           "sys": {
@@ -1261,7 +1261,7 @@
             "linkType": "User"
           }
         },
-        "updatedAt": "2021-10-06T14:20:55.162Z",
+        "updatedAt": "2021-10-10T09:26:42.314Z",
         "updatedBy": {
           "sys": {
             "id": "27MeerrWI4Um75PFmtem2G",
@@ -3029,7 +3029,7 @@
         "id": "6HjEL96KHhGa2qMfjrngSg",
         "type": "Entry",
         "createdAt": "2021-10-06T14:21:47.318Z",
-        "updatedAt": "2021-10-06T14:30:33.246Z",
+        "updatedAt": "2021-10-10T08:57:09.622Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -3037,8 +3037,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 3,
-        "publishedAt": "2021-10-06T14:30:33.246Z",
+        "publishedVersion": 5,
+        "publishedAt": "2021-10-10T08:57:09.622Z",
         "firstPublishedAt": "2021-10-06T14:21:59.143Z",
         "createdBy": {
           "sys": {
@@ -3054,8 +3054,8 @@
             "id": "27MeerrWI4Um75PFmtem2G"
           }
         },
-        "publishedCounter": 2,
-        "version": 4,
+        "publishedCounter": 3,
+        "version": 6,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -3073,7 +3073,7 @@
       },
       "fields": {
         "title": {
-          "en-US": "Blog Title 7"
+          "en-US": "Blog Title 7=9"
         },
         "slug": {
           "en-US": "blog-title-7"
