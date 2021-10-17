@@ -9,7 +9,7 @@ export default class service extends Component {
           <div className="section-head">
             <h2>Service</h2>
           </div>
-          <div style="text-align:left" className="row">
+          <div style={{textAlign:"left"}} className="row">
             {data.edges.map((item, index) => {
               return (
                 <div key={index} className="col-md-4 mb-3">
