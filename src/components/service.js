@@ -19,7 +19,7 @@ export default class service extends Component {
                       dangerouslySetInnerHTML={{
                         __html: item.node.description.childMarkdownRemark.html
                       }}
-                      style={{textAlign:"left",whiteSpace: "nowrap"}} />
+                      style={{textAlign:"left", whiteSpace: "nowrap"}} />
                   </div>
                 </div>
               );
