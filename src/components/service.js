@@ -9,12 +9,12 @@ export default class service extends Component {
           <div className="section-head">
             <h2>Service</h2>
           </div>
-          <div style={{textAlign:"left"}} className="row">
+          <div className="row">
             {data.edges.map((item, index) => {
               return (
                 <div key={index} className="col-md-4 mb-3">
                   <div className="service-main">
-                    <h3>{item.node.title}</h3>
+                    <h3 style={{textAlign:"left"}}>{item.node.title}</h3>
                     <div
                       dangerouslySetInnerHTML={{
                         __html: item.node.description.childMarkdownRemark.html
