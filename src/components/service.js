@@ -14,12 +14,12 @@ export default class service extends Component {
               return (
                 <div key={index} className="col-md-4 mb-3">
                   <div className="service-main">
-                    <h3 style={{textAlign:"left"}}>{item.node.title}</h3>
+                    <h3>{item.node.title}</h3>
                     <div
                       dangerouslySetInnerHTML={{
                         __html: item.node.description.childMarkdownRemark.html
                       }}
-                    />
+                      style={{textAlign:"left"}} />
                   </div>
                 </div>
               );
