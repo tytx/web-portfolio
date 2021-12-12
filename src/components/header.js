@@ -84,7 +84,7 @@ export default class Header extends Component {
                         </li>
                       );
                     })} */}
-                  {data.menus
+                  {/* {data.menus
                     .filter(item => item === "Testimonials")
                     .map(t => {
                       return (
@@ -92,7 +92,7 @@ export default class Header extends Component {
                           <Link to={`/#Testimonials`}>Testimonials</Link>
                         </li>
                       );
-                    })}
+                    })} */}
                   {data.menus
                     .filter(item => item === "Photos")
                     .map(t => {
