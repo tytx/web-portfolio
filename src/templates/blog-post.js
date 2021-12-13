@@ -11,7 +11,7 @@ import Share from "../components/share";
 export default class blogPost extends Component {
   render() {
     const data = this.props.data.contentfulBlogs;
-    const disqusShortname = "Telson Ting";
+    const disqusShortname = "telson-ting";
     const disqusConfig = {
       identifier: data.id,
       title: data.title
