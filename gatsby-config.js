@@ -15,7 +15,7 @@ const accessToken=  process.env.CONTENTFUL_ACCESS_TOKEN
 
 module.exports = {
   siteMetadata: {
-    title: `Rohit Gupta`,
+    title: `Telson Ting`,
     description: `Personal Site`,
     author: `@rohitguptab`
   },
@@ -41,8 +41,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Rohit Gupta`,
-        short_name: `Rohit Gupta`,
+        name: `Telson Ting`,
+        short_name: `Telson Ting`,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#333`,
