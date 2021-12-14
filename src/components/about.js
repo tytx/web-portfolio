@@ -1,5 +1,6 @@
 import React from "react";
 import Img from "gatsby-image";
+import logo from '../../public/icons/aws-certified-solutions-architect-associate.png';
 
 const Header = ({ data }) => (
   <div className="about section" id="About">
@@ -27,6 +28,7 @@ const Header = ({ data }) => (
             <ul className="details">
               <li>
                 <strong>Full Name</strong>
+
                 <p>{data.name}</p>
               </li>
               <li>
@@ -87,11 +89,12 @@ const Header = ({ data }) => (
                   ></a>
                 </li>
               </ul>
-              <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="dd82a86c-b2d7-4907-9b38-11174bbf587e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+              <a href="https://www.credly.com/badges/dd82a86c-b2d7-4907-9b38-11174bbf587e/public_url">
+             <img src={logo} alt="Logo" style={{paddingTop:"1rem"}}/>
+             </a>
             </div>
-            <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="dd82a86c-b2d7-4907-9b38-11174bbf587e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
           </div>
-          <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="dd82a86c-b2d7-4907-9b38-11174bbf587e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
         </div>
       </div>
     </div>
