@@ -1,17 +1,17 @@
 import React from "react";
 import { graphql } from "gatsby";
 
-import Layout from "../components/layout";
-import SEO from "../components/seo";
+import Layout from "./src/components/layout";
+import SEO from "./src/components/seo";
 
-import Banner from "../components/banner";
-import About from "../components/about";
-import Service from "../components/service";
-import Work from "../components/work";
-import Blogs from "../components/blogs";
-import Testimonial from "../components/testimonial";
-import Contact from "../components/contact";
-import Photos from "../components/photos";
+import Banner from "./src/components/banner";
+import About from "./src/components/about";
+import Service from "./src/components/service";
+import Work from "./src/components/work";
+import Blogs from "./src/components/blogs";
+import Testimonial from "./src/components/testimonial";
+import Contact from "./src/components/contact";
+import Photos from "./src/components/photos";
 
 const IndexPage = ({ data }) => (
   <Layout header="home">
@@ -171,7 +171,25 @@ export const pageQuery = graphql`
         }
       }
     }
-
+    allContentfulWorks {
+      edges {
+        node {
+          siteName
+          url
+          image {
+            fluid(maxWidth: 600) {
+              base64
+              aspectRatio
+              src
+              srcSet
+              srcWebp
+              srcSetWebp
+              sizes
+            }
+          }
+        }
+      }
+    }
     contentfulPhotos {
       photos {
         fluid(maxWidth: 600) {
