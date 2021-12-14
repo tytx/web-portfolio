@@ -1,6 +1,6 @@
 import React from "react";
 import Img from "gatsby-image";
-import logo from '../../public/icons/aws-certified-solutions-architect-associate.png';
+import logo from '../images/aws-certified-solutions-architect-associate.png';
 
 const Header = ({ data }) => (
   <div className="about section" id="About">
