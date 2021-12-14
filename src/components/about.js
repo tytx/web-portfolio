@@ -87,8 +87,8 @@ const Header = ({ data }) => (
                   ></a>
                 </li>
               </ul>
+              <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="dd82a86c-b2d7-4907-9b38-11174bbf587e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
             </div>
-            <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="dd82a86c-b2d7-4907-9b38-11174bbf587e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
           </div>
         </div>
       </div>
