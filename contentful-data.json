@@ -715,7 +715,7 @@
         "id": "blogs",
         "type": "ContentType",
         "createdAt": "2021-10-06T14:20:48.219Z",
-        "updatedAt": "2021-10-10T09:26:41.556Z",
+        "updatedAt": "2021-10-10T13:48:13.130Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -723,8 +723,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 7,
-        "publishedAt": "2021-10-10T09:26:41.556Z",
+        "publishedVersion": 9,
+        "publishedAt": "2021-10-10T13:48:13.130Z",
         "firstPublishedAt": "2021-10-06T14:20:51.029Z",
         "createdBy": {
           "sys": {
@@ -740,8 +740,8 @@
             "id": "27MeerrWI4Um75PFmtem2G"
           }
         },
-        "publishedCounter": 4,
-        "version": 8,
+        "publishedCounter": 5,
+        "version": 10,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -751,7 +751,7 @@
         }
       },
       "displayField": "title",
-      "name": "Recent Works",
+      "name": "Blogs",
       "description": "Blogs List",
       "fields": [
         {
@@ -1252,7 +1252,7 @@
             "linkType": "Space"
           }
         },
-        "version": 8,
+        "version": 10,
         "createdAt": "2021-10-06T14:20:51.122Z",
         "createdBy": {
           "sys": {
@@ -1261,7 +1261,7 @@
             "linkType": "User"
           }
         },
-        "updatedAt": "2021-10-10T09:26:42.314Z",
+        "updatedAt": "2021-10-10T13:48:14.193Z",
         "updatedBy": {
           "sys": {
             "id": "27MeerrWI4Um75PFmtem2G",
@@ -1483,7 +1483,7 @@
         "id": "2MEkguSekmXg1wtgqfEaXV",
         "type": "Entry",
         "createdAt": "2021-07-11T12:46:04.163Z",
-        "updatedAt": "2021-10-06T14:21:50.417Z",
+        "updatedAt": "2021-10-17T13:27:20.019Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -1491,8 +1491,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 60,
-        "publishedAt": "2021-10-06T14:21:50.417Z",
+        "publishedVersion": 66,
+        "publishedAt": "2021-10-17T13:27:20.019Z",
         "firstPublishedAt": "2021-07-11T12:46:21.010Z",
         "createdBy": {
           "sys": {
@@ -1508,8 +1508,8 @@
             "id": "27MeerrWI4Um75PFmtem2G"
           }
         },
-        "publishedCounter": 10,
-        "version": 61,
+        "publishedCounter": 11,
+        "version": 67,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -1530,7 +1530,7 @@
           "en-US": "Design"
         },
         "description": {
-          "en-US": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+          "en-US": "* Responsive Web Design (Mobile)\n* UI/UX Workflow\n* Forms Design\n* Wireframing for Proof-of-Concepts\n* Database Design\n"
         }
       }
     },
@@ -1550,7 +1550,7 @@
         "id": "5rrD15RhF8dMqpeLktOozn",
         "type": "Entry",
         "createdAt": "2021-07-11T12:46:04.172Z",
-        "updatedAt": "2021-10-06T14:21:51.339Z",
+        "updatedAt": "2021-10-17T13:43:45.938Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -1558,8 +1558,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 32,
-        "publishedAt": "2021-10-06T14:21:51.339Z",
+        "publishedVersion": 46,
+        "publishedAt": "2021-10-17T13:43:45.938Z",
         "firstPublishedAt": "2021-07-11T12:46:20.600Z",
         "createdBy": {
           "sys": {
@@ -1575,8 +1575,8 @@
             "id": "27MeerrWI4Um75PFmtem2G"
           }
         },
-        "publishedCounter": 12,
-        "version": 33,
+        "publishedCounter": 15,
+        "version": 47,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -1597,83 +1597,7 @@
           "en-US": "Develop"
         },
         "description": {
-          "en-US": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": [
-        ]
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "d6wzkvzy6ipo"
-          }
-        },
-        "id": "39bytjGpmt1wO1LeZUljr",
-        "type": "Entry",
-        "createdAt": "2021-07-11T12:46:04.572Z",
-        "updatedAt": "2021-10-06T14:22:02.502Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 5,
-        "publishedAt": "2021-10-06T14:22:02.502Z",
-        "firstPublishedAt": "2021-07-11T12:46:11.079Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        },
-        "publishedCounter": 3,
-        "version": 6,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        },
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "works"
-          }
-        }
-      },
-      "fields": {
-        "siteName": {
-          "en-US": "Site Name 4"
-        },
-        "url": {
-          "en-US": "#"
-        },
-        "image": {
-          "en-US": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Asset",
-              "id": "5lvkZ1FDXMzUud9VKR1Ruq"
-            }
-          }
+          "en-US": "* React JavaScript\n* Node Express APIs\n* AWS RDS\n* AWS Lambda & API Gateway\n* AWS CloudFront & Route53\n"
         }
       }
     },
@@ -1693,7 +1617,7 @@
         "id": "6caZg1KgLxQN4VE2QOJbCk",
         "type": "Entry",
         "createdAt": "2021-07-11T12:46:04.584Z",
-        "updatedAt": "2021-10-06T14:22:03.985Z",
+        "updatedAt": "2021-12-13T15:01:50.799Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -1701,8 +1625,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 12,
-        "publishedAt": "2021-10-06T14:22:03.985Z",
+        "publishedVersion": 31,
+        "publishedAt": "2021-12-13T15:01:50.799Z",
         "firstPublishedAt": "2021-07-11T12:46:09.711Z",
         "createdBy": {
           "sys": {
@@ -1718,8 +1642,8 @@
             "id": "27MeerrWI4Um75PFmtem2G"
           }
         },
-        "publishedCounter": 5,
-        "version": 13,
+        "publishedCounter": 12,
+        "version": 32,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -1737,7 +1661,7 @@
       },
       "fields": {
         "name": {
-          "en-US": "Rohit Gupta"
+          "en-US": "Telson"
         },
         "designation": {
           "en-US": "Front-end Developer"
@@ -1747,7 +1671,7 @@
             "sys": {
               "type": "Link",
               "linkType": "Asset",
-              "id": "5053xqiD6rGY5Z3xDASnAo"
+              "id": "1GL43PI5auWA7I7ALyiX0m"
             }
           }
         },
@@ -1756,15 +1680,15 @@
             "sys": {
               "type": "Link",
               "linkType": "Asset",
-              "id": "4yXZnfglqynUp9M1BwYzGy"
+              "id": "1GL43PI5auWA7I7ALyiX0m"
             }
           }
         },
         "description": {
-          "en-US": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+          "en-US": "Current Development Engineer at Airbus's hangar of the future team. 2+ years experience in web and cloud development. AWS Certified Solutions Architect and\nserverless computing advocate. Interested in architecting and evaluating potential technological solutions to meet organization’s business needs."
         },
         "age": {
-          "en-US": "24"
+          "en-US": "27"
         },
         "bannerImage": {
           "en-US": {
@@ -1777,16 +1701,16 @@
         },
         "bannerList": {
           "en-US": [
-            "Designer",
             "Developer",
-            "Gamer"
+            "Engineer",
+            "Designer"
           ]
         },
         "location": {
-          "en-US": "Gujarat, India"
+          "en-US": "Singapore"
         },
         "gmail": {
-          "en-US": "#"
+          "en-US": "telsont@techsalvo.ml"
         },
         "facebook": {
           "en-US": "#"
@@ -1818,314 +1742,10 @@
             "id": "d6wzkvzy6ipo"
           }
         },
-        "id": "5yj9TpsOj2xAzKI7tBMdxh",
-        "type": "Entry",
-        "createdAt": "2021-07-11T12:46:04.595Z",
-        "updatedAt": "2021-10-06T14:22:03.553Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 10,
-        "publishedAt": "2021-10-06T14:22:03.553Z",
-        "firstPublishedAt": "2021-07-11T12:46:10.630Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        },
-        "publishedCounter": 3,
-        "version": 11,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        },
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "works"
-          }
-        }
-      },
-      "fields": {
-        "siteName": {
-          "en-US": "Site Name 6"
-        },
-        "url": {
-          "en-US": "#"
-        },
-        "image": {
-          "en-US": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Asset",
-              "id": "1cxUznYGiPOJ5GNNpkVAOr"
-            }
-          }
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": [
-        ]
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "d6wzkvzy6ipo"
-          }
-        },
-        "id": "nTJ0ZCWfXZbCWNfmkBTUh",
-        "type": "Entry",
-        "createdAt": "2021-07-11T12:46:05.104Z",
-        "updatedAt": "2021-10-06T14:22:02.070Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 13,
-        "publishedAt": "2021-10-06T14:22:02.070Z",
-        "firstPublishedAt": "2021-07-11T12:46:12.063Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        },
-        "publishedCounter": 5,
-        "version": 14,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        },
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "works"
-          }
-        }
-      },
-      "fields": {
-        "siteName": {
-          "en-US": "Site Name 5"
-        },
-        "url": {
-          "en-US": "#"
-        },
-        "image": {
-          "en-US": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Asset",
-              "id": "4R3Nt1Xxk9zUtIAkWqPrW3"
-            }
-          }
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": [
-        ]
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "d6wzkvzy6ipo"
-          }
-        },
-        "id": "1Ru4ygYcLdmmqpMZgyedvc",
-        "type": "Entry",
-        "createdAt": "2021-07-11T12:46:05.424Z",
-        "updatedAt": "2021-10-06T14:22:01.597Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 7,
-        "publishedAt": "2021-10-06T14:22:01.597Z",
-        "firstPublishedAt": "2021-07-11T12:46:12.513Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        },
-        "publishedCounter": 3,
-        "version": 8,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        },
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "works"
-          }
-        }
-      },
-      "fields": {
-        "siteName": {
-          "en-US": "Site Name 3"
-        },
-        "url": {
-          "en-US": "#"
-        },
-        "image": {
-          "en-US": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Asset",
-              "id": "18ZNTGLiqsZUOadteGwojO"
-            }
-          }
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": [
-        ]
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "d6wzkvzy6ipo"
-          }
-        },
-        "id": "19MTmPou8GOGA8v8IVrEGc",
-        "type": "Entry",
-        "createdAt": "2021-07-11T12:46:05.464Z",
-        "updatedAt": "2021-10-06T14:22:00.691Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 9,
-        "publishedAt": "2021-10-06T14:22:00.691Z",
-        "firstPublishedAt": "2021-07-11T12:46:13.009Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        },
-        "publishedCounter": 3,
-        "version": 10,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        },
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "works"
-          }
-        }
-      },
-      "fields": {
-        "siteName": {
-          "en-US": "Site Name 2"
-        },
-        "url": {
-          "en-US": "#"
-        },
-        "image": {
-          "en-US": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Asset",
-              "id": "LkWkisSeBiTaYyaaH6OTr"
-            }
-          }
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": [
-        ]
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "d6wzkvzy6ipo"
-          }
-        },
         "id": "1vaZauN3G1LbRsJutH3AU9",
         "type": "Entry",
         "createdAt": "2021-07-11T12:46:06.617Z",
-        "updatedAt": "2021-10-06T14:21:54.364Z",
+        "updatedAt": "2021-12-13T14:24:42.235Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -2133,8 +1753,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 12,
-        "publishedAt": "2021-10-06T14:21:54.364Z",
+        "publishedVersion": 23,
+        "publishedAt": "2021-12-13T14:24:42.235Z",
         "firstPublishedAt": "2021-07-11T12:46:18.166Z",
         "createdBy": {
           "sys": {
@@ -2150,8 +1770,8 @@
             "id": "27MeerrWI4Um75PFmtem2G"
           }
         },
-        "publishedCounter": 4,
-        "version": 13,
+        "publishedCounter": 8,
+        "version": 24,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -2169,10 +1789,10 @@
       },
       "fields": {
         "siteName": {
-          "en-US": "Rohit Gupta"
+          "en-US": "Telson"
         },
         "siteUrl": {
-          "en-US": "https://rg-portfolio.netlify.com"
+          "en-US": "https://www.telsalvo.ml/"
         },
         "logo": {
           "en-US": {
@@ -2184,10 +1804,10 @@
           }
         },
         "twitterHandle": {
-          "en-US": "@rohitguptab"
+          "en-US": "-"
         },
         "siteDescription": {
-          "en-US": "Personal Site"
+          "en-US": "Portfolio"
         },
         "menus": {
           "en-US": [
@@ -2218,7 +1838,7 @@
         "id": "3ESYbkZtWyPnPy6nDQFAHg",
         "type": "Entry",
         "createdAt": "2021-07-11T12:46:06.728Z",
-        "updatedAt": "2021-10-06T14:21:49.557Z",
+        "updatedAt": "2021-10-17T13:43:30.675Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -2226,8 +1846,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 37,
-        "publishedAt": "2021-10-06T14:21:49.557Z",
+        "publishedVersion": 45,
+        "publishedAt": "2021-10-17T13:43:30.675Z",
         "firstPublishedAt": "2021-07-11T12:46:09.229Z",
         "createdBy": {
           "sys": {
@@ -2243,8 +1863,8 @@
             "id": "27MeerrWI4Um75PFmtem2G"
           }
         },
-        "publishedCounter": 13,
-        "version": 38,
+        "publishedCounter": 15,
+        "version": 46,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -2265,7 +1885,7 @@
           "en-US": "Research"
         },
         "description": {
-          "en-US": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+          "en-US": "* Internet of Things\n* AWS Cloud migration (Enterprise)\n* AWS Cognito (Federated Identities)\n* AWS CloudFormation deployment\n* CI/CD DevOps\n"
         }
       }
     },
@@ -2285,7 +1905,7 @@
         "id": "3PgxStGrnRqEN9L1miJyJM",
         "type": "Entry",
         "createdAt": "2021-07-11T12:46:06.774Z",
-        "updatedAt": "2021-10-06T14:21:53.820Z",
+        "updatedAt": "2021-12-14T14:48:35.315Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -2293,8 +1913,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 3,
-        "publishedAt": "2021-10-06T14:21:53.820Z",
+        "publishedVersion": 5,
+        "publishedAt": "2021-12-14T14:48:35.315Z",
         "firstPublishedAt": "2021-07-11T12:46:18.611Z",
         "createdBy": {
           "sys": {
@@ -2310,8 +1930,8 @@
             "id": "27MeerrWI4Um75PFmtem2G"
           }
         },
-        "publishedCounter": 2,
-        "version": 4,
+        "publishedCounter": 3,
+        "version": 6,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -2555,86 +2175,10 @@
             "id": "d6wzkvzy6ipo"
           }
         },
-        "id": "4nUAmFYivv1fE0wa4GEE2T",
-        "type": "Entry",
-        "createdAt": "2021-07-11T12:46:08.859Z",
-        "updatedAt": "2021-10-06T14:22:00.114Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 9,
-        "publishedAt": "2021-10-06T14:22:00.114Z",
-        "firstPublishedAt": "2021-07-11T12:46:13.941Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        },
-        "publishedCounter": 3,
-        "version": 10,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        },
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "works"
-          }
-        }
-      },
-      "fields": {
-        "siteName": {
-          "en-US": "Site Name 1"
-        },
-        "url": {
-          "en-US": "#"
-        },
-        "image": {
-          "en-US": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Asset",
-              "id": "1SI8CkaEpAjaXLVcUkcIPA"
-            }
-          }
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": [
-        ]
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "d6wzkvzy6ipo"
-          }
-        },
         "id": "6vSsam6O060OhAGGYlpn6I",
         "type": "Entry",
         "createdAt": "2021-10-06T14:21:46.285Z",
-        "updatedAt": "2021-10-06T14:21:55.934Z",
+        "updatedAt": "2021-12-13T15:34:21.660Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -2642,8 +2186,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 1,
-        "publishedAt": "2021-10-06T14:21:55.934Z",
+        "publishedVersion": 42,
+        "publishedAt": "2021-12-13T15:34:21.660Z",
         "firstPublishedAt": "2021-10-06T14:21:55.934Z",
         "createdBy": {
           "sys": {
@@ -2659,8 +2203,8 @@
             "id": "27MeerrWI4Um75PFmtem2G"
           }
         },
-        "publishedCounter": 1,
-        "version": 2,
+        "publishedCounter": 4,
+        "version": 43,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -2678,10 +2222,10 @@
       },
       "fields": {
         "title": {
-          "en-US": "Blog Title 3"
+          "en-US": "Single Signed On (SSO) intergration"
         },
         "slug": {
-          "en-US": "blog-title-3"
+          "en-US": "sso"
         },
         "featureImage": {
           "en-US": {
@@ -2693,86 +2237,7 @@
           }
         },
         "description": {
-          "en-US": "## What is Lorem Ipsum?\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": [
-        ]
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "d6wzkvzy6ipo"
-          }
-        },
-        "id": "kvdWcngcAWfKNWbU8TMeL",
-        "type": "Entry",
-        "createdAt": "2021-10-06T14:21:46.581Z",
-        "updatedAt": "2021-10-06T14:21:55.494Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "publishedAt": "2021-10-06T14:21:55.494Z",
-        "firstPublishedAt": "2021-10-06T14:21:55.494Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        },
-        "publishedCounter": 1,
-        "version": 2,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        },
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "blogs"
-          }
-        }
-      },
-      "fields": {
-        "title": {
-          "en-US": "Blog Title 2"
-        },
-        "slug": {
-          "en-US": "blog-title-2"
-        },
-        "featureImage": {
-          "en-US": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Asset",
-              "id": "3GzB8VwODxcATgqYrZLXcA"
-            }
-          }
-        },
-        "description": {
-          "en-US": "## What is Lorem Ipsum?\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+          "en-US": "## Development \n\n- Research on the use of Amazon Cognito for Enterprise Single Signed On (SSO) integration and presented findings to team leads.\n- Developed and refined a user management portal web application for user & organization mangement\n- Finalized SSO onboarding with project stakeholders, Rolled out web application to serve approximately 100+ customer users"
         }
       }
     },
@@ -2792,7 +2257,7 @@
         "id": "1j5bExAUFjfQSfOaEVcrEL",
         "type": "Entry",
         "createdAt": "2021-10-06T14:21:46.586Z",
-        "updatedAt": "2021-10-06T14:21:56.397Z",
+        "updatedAt": "2021-12-13T15:44:04.042Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -2800,8 +2265,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 1,
-        "publishedAt": "2021-10-06T14:21:56.397Z",
+        "publishedVersion": 43,
+        "publishedAt": "2021-12-13T15:44:04.042Z",
         "firstPublishedAt": "2021-10-06T14:21:56.397Z",
         "createdBy": {
           "sys": {
@@ -2817,8 +2282,8 @@
             "id": "27MeerrWI4Um75PFmtem2G"
           }
         },
-        "publishedCounter": 1,
-        "version": 2,
+        "publishedCounter": 6,
+        "version": 44,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -2836,10 +2301,10 @@
       },
       "fields": {
         "title": {
-          "en-US": "Blog Title 4"
+          "en-US": "Cloud Migration"
         },
         "slug": {
-          "en-US": "blog-title-4"
+          "en-US": "cloudmigrate"
         },
         "featureImage": {
           "en-US": {
@@ -2851,86 +2316,7 @@
           }
         },
         "description": {
-          "en-US": "## What is Lorem Ipsum?\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": [
-        ]
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "d6wzkvzy6ipo"
-          }
-        },
-        "id": "6dPFHmvvwRLTmishla3Y55",
-        "type": "Entry",
-        "createdAt": "2021-10-06T14:21:46.699Z",
-        "updatedAt": "2021-10-06T14:21:54.945Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 1,
-        "publishedAt": "2021-10-06T14:21:54.945Z",
-        "firstPublishedAt": "2021-10-06T14:21:54.945Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        },
-        "publishedCounter": 1,
-        "version": 2,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        },
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "blogs"
-          }
-        }
-      },
-      "fields": {
-        "title": {
-          "en-US": "Blog Title 1"
-        },
-        "slug": {
-          "en-US": "blog-title-1"
-        },
-        "featureImage": {
-          "en-US": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Asset",
-              "id": "7IyIhq0ijQoK3asaaOMQJM"
-            }
-          }
-        },
-        "description": {
-          "en-US": "## What is Lorem Ipsum?\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+          "en-US": "## Development \n\n- Research on the use of AWS/3rd party CLI tools for Storage & database migration.\n- Successfully led and complete the AWS account migration which hosted customer's web application backend database\n- Presented findings and recommendation to project stakeholders for future cloud migration workflows\n"
         }
       }
     },
@@ -2950,7 +2336,7 @@
         "id": "4wH0G6WUqR8Oi2pggZmd2O",
         "type": "Entry",
         "createdAt": "2021-10-06T14:21:46.773Z",
-        "updatedAt": "2021-10-06T14:21:57.297Z",
+        "updatedAt": "2021-12-13T15:50:44.103Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -2958,8 +2344,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 1,
-        "publishedAt": "2021-10-06T14:21:57.297Z",
+        "publishedVersion": 31,
+        "publishedAt": "2021-12-13T15:50:44.103Z",
         "firstPublishedAt": "2021-10-06T14:21:57.297Z",
         "createdBy": {
           "sys": {
@@ -2975,8 +2361,8 @@
             "id": "27MeerrWI4Um75PFmtem2G"
           }
         },
-        "publishedCounter": 1,
-        "version": 2,
+        "publishedCounter": 3,
+        "version": 32,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -2994,10 +2380,10 @@
       },
       "fields": {
         "title": {
-          "en-US": "Blog Title 5"
+          "en-US": "File Distribution application"
         },
         "slug": {
-          "en-US": "blog-title-5"
+          "en-US": "filledistribute"
         },
         "featureImage": {
           "en-US": {
@@ -3009,7 +2395,7 @@
           }
         },
         "description": {
-          "en-US": "## What is Lorem Ipsum?\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+          "en-US": "## Development \n\n- Research on common file sharing mechanisms and AWS multi-part upload funcationality.\n- Developed File Sharing portal for sharing of sensitive documents between users & specifc organisations\n- Rolled out File Sharing portal for company-wide usage which reduces the need for external internet based file sharing applications and provide adherence to GDPR rules"
         }
       }
     },
@@ -3029,7 +2415,7 @@
         "id": "6HjEL96KHhGa2qMfjrngSg",
         "type": "Entry",
         "createdAt": "2021-10-06T14:21:47.318Z",
-        "updatedAt": "2021-10-10T08:57:09.622Z",
+        "updatedAt": "2021-12-13T15:47:19.562Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -3037,8 +2423,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 5,
-        "publishedAt": "2021-10-10T08:57:09.622Z",
+        "publishedVersion": 34,
+        "publishedAt": "2021-12-13T15:47:19.562Z",
         "firstPublishedAt": "2021-10-06T14:21:59.143Z",
         "createdBy": {
           "sys": {
@@ -3054,8 +2440,8 @@
             "id": "27MeerrWI4Um75PFmtem2G"
           }
         },
-        "publishedCounter": 3,
-        "version": 6,
+        "publishedCounter": 5,
+        "version": 35,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -3073,10 +2459,10 @@
       },
       "fields": {
         "title": {
-          "en-US": "Blog Title 7=9"
+          "en-US": "Internet of Things (IOT) web application"
         },
         "slug": {
-          "en-US": "blog-title-7"
+          "en-US": "IOT"
         },
         "featureImage": {
           "en-US": {
@@ -3088,7 +2474,7 @@
           }
         },
         "description": {
-          "en-US": "## What is Lorem Ipsum?\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
+          "en-US": "## Development \n\n- Research on the use of QR code and responsive UI to improve user experience.\n- Developed IOT management portal for remote monitoring & management of aviation asssets\n- Rolled out IOT management portal for APAC users, well received feeback on time & cost savings of approximately 20%"
         }
       }
     },
@@ -3108,7 +2494,7 @@
         "id": "6kAul40liNrxfIoTr9OvQX",
         "type": "Entry",
         "createdAt": "2021-10-06T14:21:47.776Z",
-        "updatedAt": "2021-10-06T14:21:58.169Z",
+        "updatedAt": "2021-12-13T15:38:45.708Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -3116,8 +2502,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 1,
-        "publishedAt": "2021-10-06T14:21:58.169Z",
+        "publishedVersion": 32,
+        "publishedAt": "2021-12-13T15:38:45.708Z",
         "firstPublishedAt": "2021-10-06T14:21:58.169Z",
         "createdBy": {
           "sys": {
@@ -3133,8 +2519,8 @@
             "id": "27MeerrWI4Um75PFmtem2G"
           }
         },
-        "publishedCounter": 1,
-        "version": 2,
+        "publishedCounter": 3,
+        "version": 33,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -3152,10 +2538,10 @@
       },
       "fields": {
         "title": {
-          "en-US": "Blog Title 6"
+          "en-US": "Engineering Defect Report application"
         },
         "slug": {
-          "en-US": "blog-title-6"
+          "en-US": "engreport"
         },
         "featureImage": {
           "en-US": {
@@ -3167,7 +2553,7 @@
           }
         },
         "description": {
-          "en-US": "## What is Lorem Ipsum?\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+          "en-US": "## Development \n\n- Research on the use of Amazon Aurora (MYSQL) for backend database autoscaling needs.\n- Developed a front end React web application for submission and management of user's engineering reports with SSO intergration.\n- Presented web application and roll out to EU and APAC based users"
         }
       }
     }
@@ -3331,7 +2717,7 @@
         "id": "7yHuAa09NVOcZ25POk7cbM",
         "type": "Asset",
         "createdAt": "2021-07-11T12:44:41.193Z",
-        "updatedAt": "2021-10-06T14:21:32.392Z",
+        "updatedAt": "2021-12-13T14:43:58.859Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -3339,8 +2725,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 9,
-        "publishedAt": "2021-10-06T14:21:32.392Z",
+        "publishedVersion": 21,
+        "publishedAt": "2021-12-13T14:43:58.859Z",
         "firstPublishedAt": "2021-07-11T12:46:02.878Z",
         "createdBy": {
           "sys": {
@@ -3356,8 +2742,8 @@
             "id": "27MeerrWI4Um75PFmtem2G"
           }
         },
-        "publishedCounter": 3,
-        "version": 10,
+        "publishedCounter": 6,
+        "version": 22,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -3372,15 +2758,15 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/d6wzkvzy6ipo/7yHuAa09NVOcZ25POk7cbM/371b36802b00f8cde7d2f4e7bbf73fcb/rohitgupta-white.png",
+            "url": "//images.ctfassets.net/d6wzkvzy6ipo/7yHuAa09NVOcZ25POk7cbM/422390e3a793d95e7595c6ab6272d428/letter-t.png",
             "details": {
-              "size": 1741,
+              "size": 798,
               "image": {
-                "width": 49,
-                "height": 45
+                "width": 64,
+                "height": 64
               }
             },
-            "fileName": "rohitgupta-white.png",
+            "fileName": "letter-t.png",
             "contentType": "image/png"
           }
         }
@@ -3473,7 +2859,7 @@
         "id": "3jZ2ne8tOyoN7s3Yem2Hqm",
         "type": "Asset",
         "createdAt": "2021-07-11T12:44:41.591Z",
-        "updatedAt": "2021-10-06T14:21:44.556Z",
+        "updatedAt": "2021-10-17T14:30:26.218Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -3481,8 +2867,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 13,
-        "publishedAt": "2021-10-06T14:21:44.556Z",
+        "publishedVersion": 17,
+        "publishedAt": "2021-10-17T14:30:26.218Z",
         "firstPublishedAt": "2021-07-11T12:45:53.724Z",
         "createdBy": {
           "sys": {
@@ -3498,8 +2884,8 @@
             "id": "27MeerrWI4Um75PFmtem2G"
           }
         },
-        "publishedCounter": 4,
-        "version": 14,
+        "publishedCounter": 5,
+        "version": 18,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -3514,157 +2900,15 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/d6wzkvzy6ipo/3jZ2ne8tOyoN7s3Yem2Hqm/595794fd11d9da0f4b2e0e1753b43a82/simon-abrams-k_T9Zj3SE8k-unsplash.jpg",
+            "url": "//images.ctfassets.net/d6wzkvzy6ipo/3jZ2ne8tOyoN7s3Yem2Hqm/3667ed7651056237c3f079ef42a542f0/kaleidico-wnf_LJiJG0E-unsplash.jpg",
             "details": {
-              "size": 1992206,
+              "size": 3044525,
               "image": {
-                "width": 4430,
-                "height": 2953
+                "width": 4802,
+                "height": 3397
               }
             },
-            "fileName": "simon-abrams-k_T9Zj3SE8k-unsplash.jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": [
-        ]
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "d6wzkvzy6ipo"
-          }
-        },
-        "id": "1fANVR8QZYfacMuIMcMT2G",
-        "type": "Asset",
-        "createdAt": "2021-07-11T12:44:41.597Z",
-        "updatedAt": "2021-10-06T14:21:43.338Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 5,
-        "publishedAt": "2021-10-06T14:21:43.338Z",
-        "firstPublishedAt": "2021-07-11T12:45:55.037Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        },
-        "publishedCounter": 2,
-        "version": 6,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        }
-      },
-      "fields": {
-        "title": {
-          "en-US": "corinne-kutz-tMI2 -r5Nfo-unsplash"
-        },
-        "file": {
-          "en-US": {
-            "url": "//images.ctfassets.net/d6wzkvzy6ipo/1fANVR8QZYfacMuIMcMT2G/c088d93308546c5fa57ec950058a36fb/corinne-kutz-tMI2_-r5Nfo-unsplash.jpg",
-            "details": {
-              "size": 375439,
-              "image": {
-                "width": 2880,
-                "height": 1920
-              }
-            },
-            "fileName": "corinne-kutz-tMI2_-r5Nfo-unsplash.jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": [
-        ]
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "d6wzkvzy6ipo"
-          }
-        },
-        "id": "1SI8CkaEpAjaXLVcUkcIPA",
-        "type": "Asset",
-        "createdAt": "2021-07-11T12:44:41.609Z",
-        "updatedAt": "2021-10-06T14:21:33.600Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 5,
-        "publishedAt": "2021-10-06T14:21:33.600Z",
-        "firstPublishedAt": "2021-07-11T12:46:02.091Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        },
-        "publishedCounter": 2,
-        "version": 6,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        }
-      },
-      "fields": {
-        "title": {
-          "en-US": "johnson-wang-iI4sR nkkbc-unsplash"
-        },
-        "file": {
-          "en-US": {
-            "url": "//images.ctfassets.net/d6wzkvzy6ipo/1SI8CkaEpAjaXLVcUkcIPA/98165355dffb4ecb57eb9582eff8deea/johnson-wang-iI4sR_nkkbc-unsplash.jpg",
-            "details": {
-              "size": 651268,
-              "image": {
-                "width": 2466,
-                "height": 1621
-              }
-            },
-            "fileName": "johnson-wang-iI4sR_nkkbc-unsplash.jpg",
+            "fileName": "kaleidico-wnf_LJiJG0E-unsplash.jpg",
             "contentType": "image/jpeg"
           }
         }
@@ -3754,152 +2998,10 @@
             "id": "d6wzkvzy6ipo"
           }
         },
-        "id": "5lvkZ1FDXMzUud9VKR1Ruq",
-        "type": "Asset",
-        "createdAt": "2021-07-11T12:44:43.847Z",
-        "updatedAt": "2021-10-06T14:21:39.504Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 5,
-        "publishedAt": "2021-10-06T14:21:39.504Z",
-        "firstPublishedAt": "2021-07-11T12:45:57.185Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        },
-        "publishedCounter": 2,
-        "version": 6,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        }
-      },
-      "fields": {
-        "title": {
-          "en-US": "jesus-kiteque-wn-KYaHwcis-unsplash"
-        },
-        "file": {
-          "en-US": {
-            "url": "//images.ctfassets.net/d6wzkvzy6ipo/5lvkZ1FDXMzUud9VKR1Ruq/b0fadf18276253238b22c712341fc047/jesus-kiteque-wn-KYaHwcis-unsplash.jpg",
-            "details": {
-              "size": 421692,
-              "image": {
-                "width": 4096,
-                "height": 2726
-              }
-            },
-            "fileName": "jesus-kiteque-wn-KYaHwcis-unsplash.jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": [
-        ]
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "d6wzkvzy6ipo"
-          }
-        },
-        "id": "1TdUwUBvE0LUiuESgXyi3C",
-        "type": "Asset",
-        "createdAt": "2021-07-11T12:44:43.859Z",
-        "updatedAt": "2021-10-06T14:21:41.598Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 5,
-        "publishedAt": "2021-10-06T14:21:41.598Z",
-        "firstPublishedAt": "2021-07-11T12:45:55.833Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        },
-        "publishedCounter": 2,
-        "version": 6,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        }
-      },
-      "fields": {
-        "title": {
-          "en-US": "dustin-lee-jLwVAUtLOAQ-unsplash"
-        },
-        "file": {
-          "en-US": {
-            "url": "//images.ctfassets.net/d6wzkvzy6ipo/1TdUwUBvE0LUiuESgXyi3C/3967ef473515cf2bdd1bedc4f5f3468a/dustin-lee-jLwVAUtLOAQ-unsplash.jpg",
-            "details": {
-              "size": 2085877,
-              "image": {
-                "width": 4000,
-                "height": 2667
-              }
-            },
-            "fileName": "dustin-lee-jLwVAUtLOAQ-unsplash.jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": [
-        ]
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "d6wzkvzy6ipo"
-          }
-        },
         "id": "32Vh1BnHEripiMFnxck0uH",
         "type": "Asset",
         "createdAt": "2021-07-11T12:44:43.861Z",
-        "updatedAt": "2021-10-06T14:21:40.364Z",
+        "updatedAt": "2021-12-14T13:29:49.657Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -3907,8 +3009,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 5,
-        "publishedAt": "2021-10-06T14:21:40.364Z",
+        "publishedVersion": 9,
+        "publishedAt": "2021-12-14T13:29:49.657Z",
         "firstPublishedAt": "2021-07-11T12:45:56.786Z",
         "createdBy": {
           "sys": {
@@ -3924,8 +3026,8 @@
             "id": "27MeerrWI4Um75PFmtem2G"
           }
         },
-        "publishedCounter": 2,
-        "version": 6,
+        "publishedCounter": 3,
+        "version": 10,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -3938,373 +3040,21 @@
         "title": {
           "en-US": "austin-chan-ukzHlkoz1IE-unsplash"
         },
-        "file": {
-          "en-US": {
-            "url": "//images.ctfassets.net/d6wzkvzy6ipo/32Vh1BnHEripiMFnxck0uH/527770d6e68d9194f5f8110315080c5c/austin-chan-ukzHlkoz1IE-unsplash.jpg",
-            "details": {
-              "size": 1304367,
-              "image": {
-                "width": 5184,
-                "height": 3456
-              }
-            },
-            "fileName": "austin-chan-ukzHlkoz1IE-unsplash.jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": [
-        ]
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "d6wzkvzy6ipo"
-          }
-        },
-        "id": "7IyIhq0ijQoK3asaaOMQJM",
-        "type": "Asset",
-        "createdAt": "2021-07-11T12:44:43.876Z",
-        "updatedAt": "2021-10-06T14:21:44.152Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 5,
-        "publishedAt": "2021-10-06T14:21:44.152Z",
-        "firstPublishedAt": "2021-07-11T12:45:54.609Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        },
-        "publishedCounter": 2,
-        "version": 6,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        }
-      },
-      "fields": {
-        "title": {
-          "en-US": "joanna-kosinska-1 CMoFsPfso-unsplash"
+        "description": {
+          "en-US": "By Trscavo - Google Drawings, CC BY 4.0, https://en.wikipedia.org/w/index.php?curid=55216084"
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/d6wzkvzy6ipo/7IyIhq0ijQoK3asaaOMQJM/f4c523839fdcb96664e9c88913ed66f1/joanna-kosinska-1_CMoFsPfso-unsplash.jpg",
+            "url": "//images.ctfassets.net/d6wzkvzy6ipo/32Vh1BnHEripiMFnxck0uH/89523335a1ddefe5daf9eb1c75412043/SAML_Web_Browser_SSO_With_Static_Metadata.png",
             "details": {
-              "size": 2616961,
+              "size": 35387,
               "image": {
-                "width": 6016,
-                "height": 4016
+                "width": 960,
+                "height": 720
               }
             },
-            "fileName": "joanna-kosinska-1_CMoFsPfso-unsplash.jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": [
-        ]
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "d6wzkvzy6ipo"
-          }
-        },
-        "id": "1cxUznYGiPOJ5GNNpkVAOr",
-        "type": "Asset",
-        "createdAt": "2021-07-11T12:44:44.038Z",
-        "updatedAt": "2021-10-06T14:21:42.468Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 5,
-        "publishedAt": "2021-10-06T14:21:42.468Z",
-        "firstPublishedAt": "2021-07-11T12:45:55.441Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        },
-        "publishedCounter": 2,
-        "version": 6,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        }
-      },
-      "fields": {
-        "title": {
-          "en-US": "kristopher-roller-PC lbSSxCZE-unsplash"
-        },
-        "file": {
-          "en-US": {
-            "url": "//images.ctfassets.net/d6wzkvzy6ipo/1cxUznYGiPOJ5GNNpkVAOr/1fba09701fabcae207706264173bebc1/kristopher-roller-PC_lbSSxCZE-unsplash.jpg",
-            "details": {
-              "size": 4426599,
-              "image": {
-                "width": 4823,
-                "height": 3648
-              }
-            },
-            "fileName": "kristopher-roller-PC_lbSSxCZE-unsplash.jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": [
-        ]
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "d6wzkvzy6ipo"
-          }
-        },
-        "id": "3GzB8VwODxcATgqYrZLXcA",
-        "type": "Asset",
-        "createdAt": "2021-07-11T12:44:44.177Z",
-        "updatedAt": "2021-10-06T14:21:38.954Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 5,
-        "publishedAt": "2021-10-06T14:21:38.954Z",
-        "firstPublishedAt": "2021-07-11T12:45:57.556Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        },
-        "publishedCounter": 2,
-        "version": 6,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        }
-      },
-      "fields": {
-        "title": {
-          "en-US": "ian-schneider-TamMbr4okv4-unsplash"
-        },
-        "file": {
-          "en-US": {
-            "url": "//images.ctfassets.net/d6wzkvzy6ipo/3GzB8VwODxcATgqYrZLXcA/047546183287fb555978ebf8ce54c3b8/ian-schneider-TamMbr4okv4-unsplash.jpg",
-            "details": {
-              "size": 6364894,
-              "image": {
-                "width": 6016,
-                "height": 4016
-              }
-            },
-            "fileName": "ian-schneider-TamMbr4okv4-unsplash.jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": [
-        ]
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "d6wzkvzy6ipo"
-          }
-        },
-        "id": "4R3Nt1Xxk9zUtIAkWqPrW3",
-        "type": "Asset",
-        "createdAt": "2021-07-11T12:44:44.262Z",
-        "updatedAt": "2021-10-06T14:21:37.290Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 5,
-        "publishedAt": "2021-10-06T14:21:37.290Z",
-        "firstPublishedAt": "2021-07-11T12:45:59.211Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        },
-        "publishedCounter": 2,
-        "version": 6,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        }
-      },
-      "fields": {
-        "title": {
-          "en-US": "stefan-cosma-0gO3-b-5m80-unsplash"
-        },
-        "file": {
-          "en-US": {
-            "url": "//images.ctfassets.net/d6wzkvzy6ipo/4R3Nt1Xxk9zUtIAkWqPrW3/03fd68ab74fe3c4120627d4a81a38fc2/stefan-cosma-0gO3-b-5m80-unsplash.jpg",
-            "details": {
-              "size": 1033394,
-              "image": {
-                "width": 6000,
-                "height": 4000
-              }
-            },
-            "fileName": "stefan-cosma-0gO3-b-5m80-unsplash.jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": [
-        ]
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "d6wzkvzy6ipo"
-          }
-        },
-        "id": "LkWkisSeBiTaYyaaH6OTr",
-        "type": "Asset",
-        "createdAt": "2021-07-11T12:44:44.268Z",
-        "updatedAt": "2021-10-06T14:21:36.459Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 5,
-        "publishedAt": "2021-10-06T14:21:36.459Z",
-        "firstPublishedAt": "2021-07-11T12:46:00.088Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        },
-        "publishedCounter": 2,
-        "version": 6,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        }
-      },
-      "fields": {
-        "title": {
-          "en-US": "plush-design-studio-y7GlIdTUOvo-unsplash"
-        },
-        "file": {
-          "en-US": {
-            "url": "//images.ctfassets.net/d6wzkvzy6ipo/LkWkisSeBiTaYyaaH6OTr/18e8c20cc7abd8a3e35c9343a553a2f8/plush-design-studio-y7GlIdTUOvo-unsplash.jpg",
-            "details": {
-              "size": 1083697,
-              "image": {
-                "width": 4608,
-                "height": 3456
-              }
-            },
-            "fileName": "plush-design-studio-y7GlIdTUOvo-unsplash.jpg",
-            "contentType": "image/jpeg"
+            "fileName": "SAML_Web_Browser_SSO_With_Static_Metadata.png",
+            "contentType": "image/png"
           }
         }
       }
@@ -4325,7 +3075,7 @@
         "id": "4MDGnTnc4h5DbSlWscJKrF",
         "type": "Asset",
         "createdAt": "2021-07-11T12:44:44.287Z",
-        "updatedAt": "2021-10-06T14:21:37.680Z",
+        "updatedAt": "2021-12-14T13:55:04.457Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -4333,8 +3083,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 5,
-        "publishedAt": "2021-10-06T14:21:37.680Z",
+        "publishedVersion": 16,
+        "publishedAt": "2021-12-14T13:55:04.457Z",
         "firstPublishedAt": "2021-07-11T12:45:58.818Z",
         "createdBy": {
           "sys": {
@@ -4350,8 +3100,8 @@
             "id": "27MeerrWI4Um75PFmtem2G"
           }
         },
-        "publishedCounter": 2,
-        "version": 6,
+        "publishedCounter": 4,
+        "version": 17,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -4366,87 +3116,16 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/d6wzkvzy6ipo/4MDGnTnc4h5DbSlWscJKrF/079988c846e265e8ba828eb76ce32ebf/john-baker-3To9V42K0Ag-unsplash.jpg",
+            "url": "//images.ctfassets.net/d6wzkvzy6ipo/4MDGnTnc4h5DbSlWscJKrF/d32b9463ba8370390cfb7599a6d34302/e2e.png",
             "details": {
-              "size": 523952,
+              "size": 34647,
               "image": {
-                "width": 2627,
-                "height": 1642
+                "width": 1703,
+                "height": 1125
               }
             },
-            "fileName": "john-baker-3To9V42K0Ag-unsplash.jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": [
-        ]
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "d6wzkvzy6ipo"
-          }
-        },
-        "id": "17Df0rX2XAdX0Vcg6DCXXv",
-        "type": "Asset",
-        "createdAt": "2021-07-11T12:44:44.433Z",
-        "updatedAt": "2021-10-06T14:21:35.620Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 5,
-        "publishedAt": "2021-10-06T14:21:35.620Z",
-        "firstPublishedAt": "2021-07-11T12:46:00.498Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        },
-        "publishedCounter": 2,
-        "version": 6,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        }
-      },
-      "fields": {
-        "title": {
-          "en-US": "sydney-rae-geM5lzDj4Iw-unsplash"
-        },
-        "file": {
-          "en-US": {
-            "url": "//images.ctfassets.net/d6wzkvzy6ipo/17Df0rX2XAdX0Vcg6DCXXv/c57a1e7c8a9e9a2ed98c94959b4364af/sydney-rae-geM5lzDj4Iw-unsplash.jpg",
-            "details": {
-              "size": 1572492,
-              "image": {
-                "width": 2208,
-                "height": 1472
-              }
-            },
-            "fileName": "sydney-rae-geM5lzDj4Iw-unsplash.jpg",
-            "contentType": "image/jpeg"
+            "fileName": "e2e.png",
+            "contentType": "image/png"
           }
         }
       }
@@ -4467,7 +3146,7 @@
         "id": "018YEl9qSSZ3sbfhQdhgxI",
         "type": "Asset",
         "createdAt": "2021-07-11T12:44:44.631Z",
-        "updatedAt": "2021-10-06T14:21:35.206Z",
+        "updatedAt": "2021-12-14T14:41:29.705Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -4475,8 +3154,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 5,
-        "publishedAt": "2021-10-06T14:21:35.206Z",
+        "publishedVersion": 17,
+        "publishedAt": "2021-12-14T14:41:29.705Z",
         "firstPublishedAt": "2021-07-11T12:46:00.896Z",
         "createdBy": {
           "sys": {
@@ -4492,8 +3171,8 @@
             "id": "27MeerrWI4Um75PFmtem2G"
           }
         },
-        "publishedCounter": 2,
-        "version": 6,
+        "publishedCounter": 5,
+        "version": 18,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -4508,16 +3187,16 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/d6wzkvzy6ipo/018YEl9qSSZ3sbfhQdhgxI/3d783b3644fde7e73ea6a00921a1ea06/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg",
+            "url": "//images.ctfassets.net/d6wzkvzy6ipo/018YEl9qSSZ3sbfhQdhgxI/c532670c57c9c2617fa6c8d6710020b5/Screen_Shot_2021-12-14_at_22.24.39.png",
             "details": {
-              "size": 2645070,
+              "size": 83454,
               "image": {
-                "width": 5760,
-                "height": 3840
+                "width": 2880,
+                "height": 1800
               }
             },
-            "fileName": "carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg",
-            "contentType": "image/jpeg"
+            "fileName": "Screen Shot 2021-12-14 at 22.24.39.png",
+            "contentType": "image/png"
           }
         }
       }
@@ -4538,7 +3217,7 @@
         "id": "7vfITnS5gebujPUeOVwLb",
         "type": "Asset",
         "createdAt": "2021-07-11T12:44:44.726Z",
-        "updatedAt": "2021-10-06T14:21:34.836Z",
+        "updatedAt": "2021-12-14T14:44:41.829Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -4546,8 +3225,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 5,
-        "publishedAt": "2021-10-06T14:21:34.836Z",
+        "publishedVersion": 13,
+        "publishedAt": "2021-12-14T14:44:41.829Z",
         "firstPublishedAt": "2021-07-11T12:46:01.280Z",
         "createdBy": {
           "sys": {
@@ -4563,8 +3242,8 @@
             "id": "27MeerrWI4Um75PFmtem2G"
           }
         },
-        "publishedCounter": 2,
-        "version": 6,
+        "publishedCounter": 4,
+        "version": 14,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -4579,16 +3258,16 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/d6wzkvzy6ipo/7vfITnS5gebujPUeOVwLb/c27584c48b48d953d991c5fdda010e17/fab-lentz-mRMQwK513hY-unsplash.jpg",
+            "url": "//images.ctfassets.net/d6wzkvzy6ipo/7vfITnS5gebujPUeOVwLb/c21d72f3349003863c5559526d5f3b61/AWS-Services-Shelf.png",
             "details": {
-              "size": 132247,
+              "size": 113291,
               "image": {
-                "width": 2048,
-                "height": 1524
+                "width": 600,
+                "height": 600
               }
             },
-            "fileName": "fab-lentz-mRMQwK513hY-unsplash.jpg",
-            "contentType": "image/jpeg"
+            "fileName": "AWS-Services-Shelf.png",
+            "contentType": "image/png"
           }
         }
       }
@@ -4609,7 +3288,7 @@
         "id": "18ZNTGLiqsZUOadteGwojO",
         "type": "Asset",
         "createdAt": "2021-07-11T12:44:46.514Z",
-        "updatedAt": "2021-10-06T14:21:34.454Z",
+        "updatedAt": "2021-12-14T13:10:50.721Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -4617,8 +3296,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 5,
-        "publishedAt": "2021-10-06T14:21:34.454Z",
+        "publishedVersion": 11,
+        "publishedAt": "2021-12-14T13:10:50.721Z",
         "firstPublishedAt": "2021-07-11T12:46:01.687Z",
         "createdBy": {
           "sys": {
@@ -4634,8 +3313,8 @@
             "id": "27MeerrWI4Um75PFmtem2G"
           }
         },
-        "publishedCounter": 2,
-        "version": 6,
+        "publishedCounter": 4,
+        "version": 12,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -4648,89 +3327,21 @@
         "title": {
           "en-US": "ross-findon-mG28olYFgHI-unsplash"
         },
-        "file": {
-          "en-US": {
-            "url": "//images.ctfassets.net/d6wzkvzy6ipo/18ZNTGLiqsZUOadteGwojO/5305a6d57f71f5773d8973f23208bee2/ross-findon-mG28olYFgHI-unsplash.jpg",
-            "details": {
-              "size": 1285351,
-              "image": {
-                "width": 5312,
-                "height": 2988
-              }
-            },
-            "fileName": "ross-findon-mG28olYFgHI-unsplash.jpg",
-            "contentType": "image/jpeg"
-          }
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": [
-        ]
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "d6wzkvzy6ipo"
-          }
-        },
-        "id": "5wQiuLEmv6IpivkRvSeEFf",
-        "type": "Asset",
-        "createdAt": "2021-07-11T12:44:46.616Z",
-        "updatedAt": "2021-10-06T14:21:38.551Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 5,
-        "publishedAt": "2021-10-06T14:21:38.551Z",
-        "firstPublishedAt": "2021-07-11T12:45:58.431Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        },
-        "publishedCounter": 2,
-        "version": 6,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "27MeerrWI4Um75PFmtem2G"
-          }
-        }
-      },
-      "fields": {
-        "title": {
-          "en-US": "thomas-lefebvre-gp8BLyaTaA0-unsplash"
+        "description": {
+          "en-US": "<a href=\"https://commons.wikimedia.org/wiki/File:Cloud-Computing_services.png\">Learntek</a>, CC0, via Wikimedia Commons"
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/d6wzkvzy6ipo/5wQiuLEmv6IpivkRvSeEFf/f24c4a2b78033c78bc35f327d97863eb/thomas-lefebvre-gp8BLyaTaA0-unsplash.jpg",
+            "url": "//images.ctfassets.net/d6wzkvzy6ipo/18ZNTGLiqsZUOadteGwojO/faf5e0e42946e63fbb8d0717b0374991/Cloud-Computing_services.png",
             "details": {
-              "size": 737124,
+              "size": 128693,
               "image": {
-                "width": 4705,
-                "height": 3137
+                "width": 960,
+                "height": 593
               }
             },
-            "fileName": "thomas-lefebvre-gp8BLyaTaA0-unsplash.jpg",
-            "contentType": "image/jpeg"
+            "fileName": "Cloud-Computing_services.png",
+            "contentType": "image/png"
           }
         }
       }
@@ -4801,6 +3412,80 @@
               }
             },
             "fileName": "test.PNG",
+            "contentType": "image/png"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "d6wzkvzy6ipo"
+          }
+        },
+        "id": "1GL43PI5auWA7I7ALyiX0m",
+        "type": "Asset",
+        "createdAt": "2021-12-13T14:50:23.405Z",
+        "updatedAt": "2021-12-13T14:59:02.558Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 12,
+        "publishedAt": "2021-12-13T14:59:02.558Z",
+        "firstPublishedAt": "2021-12-13T14:50:40.786Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "27MeerrWI4Um75PFmtem2G"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "27MeerrWI4Um75PFmtem2G"
+          }
+        },
+        "publishedCounter": 3,
+        "version": 13,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "27MeerrWI4Um75PFmtem2G"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "developer-3461405 640"
+        },
+        "description": {
+          "en-US": ""
+        },
+        "file": {
+          "en-US": {
+            "url": "//images.ctfassets.net/d6wzkvzy6ipo/1GL43PI5auWA7I7ALyiX0m/144b7572c16ff8940cebd656e4ee59fe/programmer-1653351_640.png",
+            "details": {
+              "size": 170500,
+              "image": {
+                "width": 640,
+                "height": 444
+              }
+            },
+            "fileName": "programmer-1653351_640.png",
             "contentType": "image/png"
           }
         }
