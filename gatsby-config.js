@@ -16,8 +16,8 @@ const accessToken=  process.env.CONTENTFUL_ACCESS_TOKEN
 module.exports = {
   siteMetadata: {
     title: `Telson Ting`,
-    description: `Personal Site`,
-    author: `@rohitguptab`
+    description: `Web Portfolio`,
+    author: `Telson Ting`
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
